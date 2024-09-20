@@ -1,2 +1,2 @@
 # PROJECT
-In this project repo all level of projects like beginner-intermediate-advance-pro projects of langauge such as C/C++,JAVA,PYTHON
+In this project repo all level of projects like Beginner ,Intermediate ,Advance and Pro Projects of langauge such as C/C++,Java,Python and so on.
